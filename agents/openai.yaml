@@ -1,0 +1,3 @@
+interface:
+  display_name: "Adaptive Explainer"
+  short_description: "Personalized explanations that adapt background and depth"
